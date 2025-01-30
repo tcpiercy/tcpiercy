@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Compute and Networking </b>
-  - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/osticket-prereqs)
+  - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/Azure-Networking-prereqs)
   - [Creating a Firewall in Azure](https://github.com/joshmadakorcc/post-install-config)
 - <b>Active Directory</b>
   - [Changing a User to a Domain Admin](https://github.com/joshmadakorcc/configure-ad)
