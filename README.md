@@ -3,10 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Compute and Networking </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tcpiercy/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/osticket-prereqs)
+  - [Creating a Firewall in Azure](https://github.com/joshmadakorcc/post-install-config)
 - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+    - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
