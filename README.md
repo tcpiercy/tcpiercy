@@ -11,9 +11,11 @@
   - [Pinging DC1](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Changing Client DNS](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Creating a User](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating a User in Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
-- <b>Microsoft Azure</b>
+
+- <b>DNS</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
