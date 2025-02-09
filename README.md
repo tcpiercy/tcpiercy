@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure Compute and Networking </b>
+- <b>Azure Compute, Networking, Building Firewalls </b>
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
   - [Creating a Firewall in Azure](https://github.com/joshmadakorcc/post-install-config)
 - <b>Active Directory</b>
