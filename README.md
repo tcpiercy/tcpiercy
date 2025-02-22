@@ -16,8 +16,8 @@
 
 
 - <b>DNS</b>
-  - [DNS Lab](https://github.com/tcpiercy/part-1)
-  - [DNS Lab Part 2](https://github.com/tcpiercy/part-2)
+  - [DNS Lab](https://github.com/tcpiercy/DNS-part-1)
+  - [DNS Lab Part 2](https://github.com/tcpiercy/DNS-part-2)
 
 <h2>🤳Connect with me:</h2>
 
