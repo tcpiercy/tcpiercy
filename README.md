@@ -4,7 +4,7 @@
 
 - <b>Azure Compute, Networking, Building Firewalls </b>
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
-  - [Creating a Firewall in Azure](https://github.com/joshmadakorcc/post-install-config)
+  - [Creating a Firewall in Azure](https://github.com/tcpiercy/post-install-config)
 - <b>Active Directory</b>
   - [Changing a User to a Domain Admin](https://github.com/joshmadakorcc/configure-ad)
   - [Creating Org Units](https://github.com/joshmadakorcc/azure-network-protocols)
