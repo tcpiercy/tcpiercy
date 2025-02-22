@@ -6,12 +6,12 @@
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
   - [Creating a Firewall in Azure](https://github.com/tcpiercy/create-firewall-azure)
 - <b>Active Directory</b>
-  - [Changing a User to a Domain Admin](https://github.com/joshmadakorcc/configure-ad)
-  - [Creating Org Units](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Pinging DC1](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Changing Client DNS](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Creating a User](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Creating a User in Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Changing a User to a Domain Admin](https://github.com/tpiercy/changing-user-to-admin)
+  - [Creating Org Units](https://github.com/tpiercy/creating-org-units)
+  - [Pinging DC1](https://github.com/tpiercy/pinging-dc1)
+  - [Changing Client DNS](https://github.com/tpiercy/changing-client-dns)
+  - [Creating a User](https://github.com/tpiercy/creating-a-user)
+  - [Creating a User in Powershell](https://github.com/tpiercy/creating-user-powershell)
 
 
 
