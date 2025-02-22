@@ -6,18 +6,18 @@
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
   - [Creating a Firewall in Azure](https://github.com/tcpiercy/create-firewall-azure)
 - <b>Active Directory</b>
-  - [Changing a User to a Domain Admin](https://github.com/tpiercy/changing-user-to-admin)
-  - [Creating Org Units](https://github.com/tpiercy/creating-org-units)
-  - [Pinging DC1](https://github.com/tpiercy/pinging-dc1)
-  - [Changing Client DNS](https://github.com/tpiercy/changing-client-dns)
-  - [Creating a User](https://github.com/tpiercy/creating-a-user)
-  - [Creating a User in Powershell](https://github.com/tpiercy/creating-user-powershell)
+  - [Changing a User to a Domain Admin](https://github.com/tcpiercy/changing-user-to-admin)
+  - [Creating Org Units](https://github.com/tcpiercy/creating-org-units)
+  - [Pinging DC1](https://github.com/tcpiercy/pinging-dc1)
+  - [Changing Client DNS](https://github.com/tcpiercy/changing-client-dns)
+  - [Creating a User](https://github.com/tcpiercy/creating-a-user)
+  - [Creating a User in Powershell](https://github.com/tcpiercy/creating-user-powershell)
 
 
 
 - <b>DNS</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [DNS Lab](https://github.com/tcpiercy/part-1)
+  - [DNS Lab (NSGs) and Inspecting Network Protocols](https://github.com/tcpiercy/part-2)
 
 <h2>🤳Connect with me:</h2>
 
