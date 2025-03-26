@@ -1,6 +1,6 @@
 <h1>Hi, I'm Theo, an <a href="https://www.linkedin.com/in/theodore-chris-piercy/">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻IN PROGRESS Information Technology Projects:</h2>
 
 - <b>Azure Compute, Networking, Building Firewalls </b>
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
