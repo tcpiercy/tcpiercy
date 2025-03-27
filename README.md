@@ -7,7 +7,7 @@
   - [Creating a Firewall in Azure](https://github.com/tcpiercy/create-firewall-azure)
 - <b>Active Directory IN PROGRESS</b>
   - [Creating Org Units](https://github.com/tcpiercy/changing-user-to-admin)
-  - [Changing User into Domain Admin](https://github.com/tcpiercy/creating-org-units)
+  - [Creating User](https://github.com/tcpiercy/creating-org-units)
   - [Pinging DC1](https://github.com/tcpiercy/pinging-dc1)
   - [Changing Client DNS](https://github.com/tcpiercy/changing-client-dns)
   - [Creating a User](https://github.com/tcpiercy/creating-a-user)
