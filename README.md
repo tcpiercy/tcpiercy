@@ -18,7 +18,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Theo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[LinkedIn](https://www.linkedin.com/in/theodore-chris-piercy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/theodore-chris-piercy/)
