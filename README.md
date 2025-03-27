@@ -21,4 +21,4 @@
 [<img align="left" alt="Theo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [https://linkedin.com/in/Theo](https://www.linkedin.com/in/theodore-chris-piercy/)
+[LinkedIn](https://www.linkedin.com/in/theodore-chris-piercy/)
