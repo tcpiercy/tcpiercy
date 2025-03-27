@@ -5,7 +5,7 @@
 - <b>Azure Compute, Networking, Building Firewalls </b>
   - [Using Azure to Ping Linux Machine and View Traffic](https://github.com/tcpiercy/ping-linux-machine-azure)
   - [Creating a Firewall in Azure](https://github.com/tcpiercy/create-firewall-azure)
-- <b>Active Directory IN PROGRESS</b>
+- <b>Active Directory</b>
   - [Creating Org Units](https://github.com/tcpiercy/changing-user-to-admin)
   - [Creating User](https://github.com/tcpiercy/creating-org-units)
   - [Pinging DC1](https://github.com/tcpiercy/pinging-dc1)
