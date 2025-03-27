@@ -18,4 +18,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/theodore-chris-piercy/)
+<a href="https://www.linkedin.com/in/theodore-chris-piercy/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">
+</a>
