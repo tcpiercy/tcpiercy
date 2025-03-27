@@ -10,8 +10,8 @@
   - [Creating User](https://github.com/tcpiercy/creating-org-units)
   - [Pinging DC1](https://github.com/tcpiercy/pinging-dc1)
   - [Changing Client DNS](https://github.com/tcpiercy/changing-client-dns)
-  - [Creating a User](https://github.com/tcpiercy/creating-a-user)
-  - [Creating a User in Powershell](https://github.com/tcpiercy/creating-user-powershell)
+  - [Changing User into Domain Admin](https://github.com/tcpiercy/creating-a-user)
+  
 
 
 
